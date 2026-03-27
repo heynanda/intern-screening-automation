@@ -1,0 +1,27 @@
+Subject: Your application for Engineering Intern at [Company]
+
+Hi {{candidate_first_name}},
+
+Thank you for taking the time to apply for our Engineering Intern
+programme at [Company].
+
+After reviewing your application, we are moving forward with
+candidates whose profile more closely matches what we need for
+this particular cycle.
+
+This does not reflect on your potential as an engineer. We receive
+a large number of applications and are only able to advance a small
+percentage in each cycle.
+
+We encourage you to:
+- Apply again in a future hiring cycle
+- Keep building — your projects and open-source work matter
+- Follow us on LinkedIn for future opportunities
+
+We wish you the very best in your search.
+
+[Company] Recruiting Team
+[Company Website]
+
+---
+This message was sent automatically.
