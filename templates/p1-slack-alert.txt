@@ -1,0 +1,11 @@
+🟢 NEW P1 CANDIDATE — {{skill_area}}
+
+Name:         {{candidate_name}}
+Skill area:   {{skill_area}}
+Internships:  {{internship_count}} ({{internship_companies}})
+GitHub:       {{github_url}}
+Graduation:   {{graduation_year}}
+
+Why P1: Passed all 3 gates. {{internship_count}}+ tech internships confirmed.
+
+Review in ATS: {{candidate_ats_url}}
